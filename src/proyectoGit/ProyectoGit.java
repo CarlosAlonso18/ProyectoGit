@@ -6,7 +6,8 @@ public class ProyectoGit {
 		
 		System.out.println("commit inicial");
 		System.out.println("creada rama cam");
-		System.out.println("creada rama cam2");
+		System.out.println("linea escrita en GitHub");
+		
 
 	}
 
